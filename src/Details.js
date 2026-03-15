@@ -35,60 +35,44 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "Alexander Lee",
+  tagline: "Computer Science Graduate | Data Analyst | Power BI, SQL, Excel",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `I'm a Computer Science graduate focused on data analysis, dashboard development, and process automation. I have experience building Power BI dashboards, automating Excel workflows with PowerShell, and supporting data-driven decision making through reporting and analysis. I'm currently building projects in SQL, Power BI, Python, and web technologies to strengthen my skills and create practical solutions.`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkedin: "https://www.linkedin.com/in/alexawnder-lee/",
+  github: "https://github.com/Alexawnder",
 };
 
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Student Professional Worker",
+    Company: `Los Angeles Department of Water and Power`,
+    Location: "Los Angeles, CA",
+    Type: "Part Time",
+    Duration: "Jul 2024 - Jul 2025",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Student Professional Worker",
+    Company: `Los Angeles Police Department`,
+    Location: "Los Angeles, CA",
+    Type: "Part Time",
+    Duration: "Jul 2023 - Jul 2024",
   },
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
+    Position: "Bachelor of Science in Computer Science",
+    Company: "California State Polytechnic University, Pomona",
+    Location: "Pomona, CA",
     Type: "Full Time",
-    Duration: "Jan 2022 - Present",
-  },
-  {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Duration: "Aug 2021 - May 2025",
   },
 ];
 
@@ -113,63 +97,41 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Stock Analyzer Dashboard",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Built a stock analysis project focused on identifying strong candidates for cash-secured puts by evaluating volatility, trend strength, and overall risk factors.`,
+    techstack: "Python, Streamlit, Pandas",
+    previewLink: "",
+    githubLink: "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1",
   },
   {
-    title: "Project title 2",
+    title: "SQL Sales Data Analysis",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Analyzed sales data using SQL queries to identify top-performing products, revenue trends, and customer behavior insights. Focused on turning raw data into clear business findings.`,
+    techstack: "SQL, MySQL, Excel",
+    previewLink: "",
+    githubLink: "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2",
   },
   {
-    title: "Project title 3",
+    title: "Power BI Reporting Dashboard",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Created an interactive dashboard to visualize KPIs, trends, and operational metrics in a clear and actionable format for decision making.`,
+    techstack: "Power BI, Excel, Data Visualization",
+    previewLink: "",
+    githubLink: "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_3",
   },
   {
-    title: "Project title 4",
+    title: "Portfolio Website",
     image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 5",
-    image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 6",
-    image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Developed and customized a personal portfolio website to showcase projects, technical skills, and experience in data analysis and software development.`,
+    techstack: "React, JavaScript, CSS",
+    previewLink: "",
+    githubLink: "https://github.com/YOUR_GITHUB_USERNAME/YOUR_PORTFOLIO_REPO",
   },
 ];
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "alexanderlee389@gmail.com",
+  phone: "+1(626)-365-6083",
 };
