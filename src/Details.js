@@ -10,7 +10,7 @@ import vscode from "./assets/techstack/vscode.png";
 import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
 // Project Images
-import projectImage1 from "./assets/projects/project1.jpg";
+import projectImage1 from "./assets/projects/project1.png";
 import projectImage2 from "./assets/projects/project2.jpg";
 
 // Logos
