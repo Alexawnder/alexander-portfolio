@@ -1,6 +1,7 @@
 import React, { useRef, useEffect } from "react";
 import gsap from "gsap";
 import { personalDetails } from "../Details";
+import resumePDF from "../assets/resume.pdf";
 
 function Home() {
   const { name, tagline, img } = personalDetails;
@@ -77,9 +78,16 @@ function Home() {
         >
           {tagline}
         </h2>
+        <a
+          href={resumePDF}
+          download="Alexander_Lee_Resume.pdf"
+          className="inline-block mt-6 btn bg-greenbg text-green-text px-6 py-2 rounded-3xl font-medium hover:opacity-80 transition-opacity"
+        >
+          Download Resume
+        </a>
       </div>
       <div className="mt-5 md:mt-0">
-        <img ref={myimageref} className="w-1/2 md:ml-auto" src={img} alt="Pavan MG" />
+        <img ref={myimageref} className="w-1/2 md:ml-auto" src={img} alt="Alexander Lee" />
       </div>
     </main>
   );

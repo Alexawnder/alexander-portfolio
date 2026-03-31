@@ -101,8 +101,8 @@ export const projectDetails = [
     image: projectImage1,
     description: `End-to-end data pipeline ingesting daily stock data for 40+ tickers. Engineers features including moving averages, momentum, and volatility, then ranks stocks with a custom scoring model. Deployed as an interactive Streamlit dashboard — reducing analysis time from hours to seconds.`,
     techstack: "Python, PostgreSQL, pandas, Streamlit, Plotly",
-    previewLink: "",
-    githubLink: "https://github.com/Alexawnder",
+    previewLink: "https://stock-ranking-pipeline-a8z6svbsvnjbmsobctykwq.streamlit.app/",
+    githubLink: "https://github.com/Alexawnder/stock-ranking-pipeline",
   },
   {
     title: "E-commerce Sales Analytics Dashboard",
