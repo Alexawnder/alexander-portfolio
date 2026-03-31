@@ -1,21 +1,18 @@
 {
   "files": {
-    "main.css": "/alexander-portfolio/static/css/main.b45ad744.css",
-    "main.js": "/alexander-portfolio/static/js/main.34764d76.js",
-    "static/media/profile.jpg": "/alexander-portfolio/static/media/profile.2cdbfa402c3e659ee1fb.jpg",
+    "main.css": "/alexander-portfolio/static/css/main.b16c67e6.css",
+    "main.js": "/alexander-portfolio/static/js/main.d490c084.js",
+    "static/media/profile.jpg": "/alexander-portfolio/static/media/profile.9bfdc14c832bcc11c4d3.jpg",
+    "static/media/project1.png": "/alexander-portfolio/static/media/project1.c23c41ff3965c2dc1845.png",
+    "static/media/resume.pdf": "/alexander-portfolio/static/media/resume.0b0d7ee54db52a752ef1.pdf",
     "static/media/project2.jpg": "/alexander-portfolio/static/media/project2.5fae296d371cc56cd98a.jpg",
-    "static/media/project4.jpg": "/alexander-portfolio/static/media/project4.a7b7ed11daa072b234eb.jpg",
-    "static/media/project3.jpg": "/alexander-portfolio/static/media/project3.03535c34c110b7ea292b.jpg",
-    "static/media/logo.svg": "/alexander-portfolio/static/media/logo.e422ca86014ad14ed818361ce3d7a2a9.svg",
-    "static/media/project5.jpg": "/alexander-portfolio/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
-    "static/media/logo2.svg": "/alexander-portfolio/static/media/logo2.b34d54a6d84876ef2b4fa457fa569c06.svg",
-    "static/media/project6.jpg": "/alexander-portfolio/static/media/project6.a22c939898d6c4613b65.jpg",
+    "static/media/logo.png": "/alexander-portfolio/static/media/logo.931ea7a4874c80121b02.png",
     "index.html": "/alexander-portfolio/index.html",
-    "main.b45ad744.css.map": "/alexander-portfolio/static/css/main.b45ad744.css.map",
-    "main.34764d76.js.map": "/alexander-portfolio/static/js/main.34764d76.js.map"
+    "main.b16c67e6.css.map": "/alexander-portfolio/static/css/main.b16c67e6.css.map",
+    "main.d490c084.js.map": "/alexander-portfolio/static/js/main.d490c084.js.map"
   },
   "entrypoints": [
-    "static/css/main.b45ad744.css",
-    "static/js/main.34764d76.js"
+    "static/css/main.b16c67e6.css",
+    "static/js/main.d490c084.js"
   ]
 }
